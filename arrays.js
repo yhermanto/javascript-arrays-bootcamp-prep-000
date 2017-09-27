@@ -1,3 +1,3 @@
-function addElementToBeginningOfArray(word1, word2) {
-  
+function addElementToBeginningOfArray(array, element) {
+var array2 = [element, ...array]
 }
